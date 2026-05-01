@@ -5,6 +5,25 @@ Maintained by KawKab
 
 ---
 
+## v1.1
+
+Refinement update focused on stability and consistency.
+
+### Improvements
+- Improved overall stability and reliability  
+- Enhanced compatibility across various devices and ROMs  
+- Optimized internal behavior for better consistency  
+
+### Fixes
+- Minor bug fixes  
+- General performance optimizations  
+
+### Notes
+- No changes to configuration requirements  
+- Continues to operate with a clean and minimal setup  
+
+---
+
 ## v1.0
 
 Initial public release.
@@ -41,8 +60,8 @@ Special thanks to all original developers and contributors whose efforts made th
 
 ## Known Limitations
 
-- Behavior may vary depending on device, ROM, and environment
-- Future updates will address compatibility improvements and additional enhancements
+- Behavior may vary depending on device, ROM, and environment  
+- Future updates will address compatibility improvements and additional enhancements  
 
 ---
 
